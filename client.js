@@ -92,7 +92,7 @@ function bonus(employee){
 
 
 
-// comments for Yer
+// Comments for Yer
 // For of loop can be in the open
 // function bonus was input into loop to loop through the employee objects
 // to run the conditionals, in order to calculate their bonus percentage
@@ -101,3 +101,21 @@ function bonus(employee){
 
 
 
+// Yer's RECAP //
+
+/*
+
+We created a function with  many conditionals inside that will loop through our employee objects to see 
+if any of them meet the requirements enough to get a bonus. There are many conditions we 
+must evaluate in order to properly assess which employee gets the bonus and how much of a bonus.
+
+Some takeaways from this pair coding experience:
+- I definitely need to practice coding on edabit.com more
+- Definitely appreciate working in pairs, having a second eye is great, not to 
+mention I really wasn't sure on where to start
+- I literally didn't even know that we could do for loops in the open lol , I am sure
+I've seen it in tier 1 but I could NOT recall it at all and was stumped by the for of loop
+when declared but Julian was great and explained things out thoroughly to me
+
+
+*/
